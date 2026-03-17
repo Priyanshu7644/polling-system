@@ -1,4 +1,4 @@
-#Polling System
+Polling System
 
 A dynamic, full-stack web application designed to create, manage, and participate in real-time polls. This platform provides a seamless interface for users to gather opinions and visualize data instantly through a modern, responsive dashboard.
 
